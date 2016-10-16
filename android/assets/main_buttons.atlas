@@ -1,0 +1,41 @@
+
+main_buttons.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b_more
+  rotate: false
+  xy: 2, 2
+  size: 327, 107
+  orig: 327, 107
+  offset: 0, 0
+  index: -1
+b_options
+  rotate: false
+  xy: 331, 2
+  size: 327, 107
+  orig: 327, 107
+  offset: 0, 0
+  index: -1
+b_start
+  rotate: false
+  xy: 660, 2
+  size: 327, 107
+  orig: 327, 107
+  offset: 0, 0
+  index: -1
+b_sound_off
+  rotate: false
+  xy: 989, 2
+  size: 327, 107
+  orig: 327, 107
+  offset: 0, 0
+  index: -1
+b_sound_on
+  rotate: false
+  xy: 1318, 2
+  size: 327, 107
+  orig: 327, 107
+  offset: 0, 0
+  index: -1

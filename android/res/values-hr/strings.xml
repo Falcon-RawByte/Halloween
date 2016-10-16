@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Halloween: Candies &amp; Monsters</string>
+
+    <string name="iplay">I\'ve got this unique card saving the town</string>
+    <string name="inapp">in the game</string>
+
+    <string name="saved">Saved to gallery</string>
+</resources>

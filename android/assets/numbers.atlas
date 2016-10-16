@@ -1,0 +1,62 @@
+
+numbers.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+album_page_1_off
+  rotate: false
+  xy: 2, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_1_on
+  rotate: false
+  xy: 76, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_2_off
+  rotate: false
+  xy: 150, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_2_on
+  rotate: false
+  xy: 224, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_3_off
+  rotate: false
+  xy: 298, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_3_on
+  rotate: false
+  xy: 372, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_4_off
+  rotate: false
+  xy: 446, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+album_page_4_on
+  rotate: false
+  xy: 520, 2
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1

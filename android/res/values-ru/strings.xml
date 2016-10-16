@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Halloween: Candies &amp; Monsters</string>
+    <!--<string name="app_name">Save the town</string>-->
+    <string name="iplay">Я получил эту уникальную карточку, спасая город</string>
+    <string name="inapp">в игре</string>
+
+    <string name="saved">Saved to gallery</string>
+</resources>
